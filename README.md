@@ -5,4 +5,4 @@
 
 Here are some ideas to get you started:
 
-![Alifma's github stats](https://github-readme-stats.vercel.app/api?username=alifma&show_icons=true&theme=blueberry&count_private=true)
+![Alifma github stats](https://github-readme-stats.vercel.app/api?username=alifma&show_icons=true&theme=blueberry&count_private=true)
